@@ -4,7 +4,7 @@ on:
     branches: [main]
 jobs:
   website:
-    name: discord-button-page
+    name: website
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
