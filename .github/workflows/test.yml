@@ -20,7 +20,7 @@ jobs:
         run: npm run lint
 
   build:
-    name: Website
+    name: discord-button-page
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
